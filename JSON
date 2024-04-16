@@ -1,0 +1,41 @@
+```json
+{
+  "name": "Stella Marvels NFT Art Collection",
+  "description": "A collection of non-fungible tokens (NFTs) representing exquisite pieces of digital art.",
+  "image":.png",
+  "external_link": "https://app.pinata.cloud/Qme9tqwz9upv7vo84cdsZu4bNNN7BDDZTZJgzBUgFx3FH8",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "AI Generated Art"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 16"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "Medium",
+      "value": "Digital"
+    }
+  ]
+}
+```
+    {
+      "trait_type": "Foreground",
+      "value": "100"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Modern"
+    },
+    {
+      "trait_type": "Color Scheme",
+      "value": "Blue and Gold"  
+  }
+  ]
+}
+```
